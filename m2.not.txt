@@ -1,0 +1,10 @@
+proceso areadeuntriangulo
+  definir base,altura como entero;
+  definir resultado como real;
+  escribir "basen";
+  leer base;
+  escribir "altura";
+  leer altura;
+  resultado <- base*altura/2;
+  
+ finproceso;
